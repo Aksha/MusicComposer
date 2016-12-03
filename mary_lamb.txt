@@ -1,0 +1,6 @@
+b a g a b b b2
+a a a2 b b b2 b a g a b b b b
+a a b a g1
+*t2
+O1 b- b- a- p4
+*=2

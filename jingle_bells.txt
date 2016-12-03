@@ -1,0 +1,4 @@
+t200 l4 o4 mn e e l2 e l4 e e l2 e l4 e g l3 c l8 d
+l1 e l4 f f l3 f l8 f l4 f e l2 e l8 e e l4 e d d e
+l2 d g l4 e e l2 e l4 e e l2 e l4 e g l3 c l8 d l1 e
+l4 f f l3 f l8 f l4 f e l2 e l8 e f l4 g g f d l2 c

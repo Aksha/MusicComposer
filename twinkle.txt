@@ -1,0 +1,8 @@
+C C G G A A G P4
+F F E E D D C P4
+
+G G F F E E D P4
+G G F F E E D P2
+
+C C G G A A G P4
+F F E E D D C1

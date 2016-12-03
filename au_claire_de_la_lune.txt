@@ -1,0 +1,9 @@
+O3
+g g g a b2 a2 g b a a g1
+g g g a b2 a2 g b a a g1
+*e200
+*t3
+*lcde.wav
+*=3
+**0.25
+*~1
